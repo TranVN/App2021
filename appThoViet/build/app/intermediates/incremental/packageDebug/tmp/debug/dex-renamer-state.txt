@@ -1,0 +1,7 @@
+#Sat Mar 27 14:37:40 ICT 2021
+base.0=F\:\\CODE_THOVIET\\appThoViet\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=F\:\\CODE_THOVIET\\appThoViet\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
